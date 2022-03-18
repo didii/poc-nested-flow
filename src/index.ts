@@ -1,4 +1,4 @@
-import { Flow, RepeatingFlow } from './flow';
+import { Flow, RepeatingFlow } from './lib/flow';
 import { Data } from './lib/data';
 import { EventHub } from './lib/event-hub';
 import { ChooseMethodChosenEvent, ChooseMethodRequest, ChooseMethodStep, FinalizeFieldStep, FinalizeStep, InitializeFieldStep, InitializeStep, PathAbcStep, PathDefStep, PrepareFieldsStep } from './lib/steps';

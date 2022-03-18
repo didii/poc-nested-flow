@@ -1,7 +1,7 @@
-import { EventHub, ProvideRequest, ResultOf } from './lib/event-hub';
-import { Context, Step } from './lib/step';
-import { globals } from './lib/globals';
-import { Type } from './lib/types';
+import { EventHub, ProvideRequest, ResultOf } from './event-hub';
+import { Context, Step } from './step';
+import { globals } from './globals';
+import { Type } from './types';
 
 
 export class Flow<TData> {
