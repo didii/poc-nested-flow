@@ -1,0 +1,16 @@
+{
+  "name": "poc-nested-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite ./src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.2",
+    "vite": "^2.8.6"
+  }
+}
